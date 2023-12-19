@@ -1,11 +1,11 @@
 {
-    "name": "My Addon",
-    "version": "0.1",
-    "slug": "my_addon",
-    "description": "A custom Home Assistant add-on.",
-    "startup": "application",
-    "boot": "auto",
-    "options": {},
-    "schema": {}
-  }
-  
+  "name": "My Addon",
+  "version": "0.1",
+  "slug": "my_addon",
+  "description": "A detailed description of what your add-on does.",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "icon": "icon.png"
+}
