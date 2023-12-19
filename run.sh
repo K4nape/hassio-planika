@@ -8,4 +8,4 @@
 echo "Hello World" | bashio::log.info
 
 # Start service
-python3 -m my_addon
+python3 /usr/src/my_addon.py
